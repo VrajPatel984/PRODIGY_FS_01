@@ -18,7 +18,7 @@ User registration with email/username and password
 
 Login functionality
 
-# 💡Technologies
+## 💡Technologies
 
 Frontend: React.js 
 
